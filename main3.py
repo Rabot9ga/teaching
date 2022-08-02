@@ -1,2 +1,3 @@
 print(2+3)
-print
+print(3+5)
+print(2*2)
